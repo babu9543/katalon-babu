@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://cellar.wisq.com/')
+
+WebUI.setText(findTestObject('Object Repository/Page_Wisq/input_Welcome to Wisq_email'), 'babu@babu21.net')
+
+WebUI.click(findTestObject('Object Repository/Page_Wisq/button_Continue'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Signin/input_Email_username'), 'babu@babu21.net')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Signin/input_Password_password'), 'PhZq6Y6U0PZrPgK/4rhhvw==')
+
+WebUI.click(findTestObject('Object Repository/Page_Signin/input_Forgot your password_signInSubmitButton'))
+
+WebUI.click(findTestObject('Object Repository/Page_Wisq/button_Launch'))
+
+WebUI.closeBrowser()
+

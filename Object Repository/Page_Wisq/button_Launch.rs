@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Launch</name>
+   <tag></tag>
+   <elementGuidId>0174c6c7-6070-43b7-b5b9-bbf21b73ad57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Test21'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>602bd2a5-8bcd-456c-acb5-32adb08ccda7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> hausButton cta</value>
+      <webElementGuid>34fde5fb-da62-4e59-b24a-8ab6b09d7900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Launch</value>
+      <webElementGuid>4dfad94b-abaa-4a5b-82c5-ee5791d0d2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js-focus-visible&quot;]/body[1]/haus-root[1]/main[1]/haus-space-selection[1]/div[@class=&quot;container&quot;]/section[@class=&quot;pane scroll&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;innerContent&quot;]/ul[@class=&quot;availableSpaces&quot;]/li[@class=&quot;spaceGroup&quot;]/ul[1]/li[@class=&quot;spaceItem&quot;]/button[@class=&quot;hausButton cta&quot;]</value>
+      <webElementGuid>cbc7278f-fc7f-4154-8c11-40d31c2a9f8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test21'])[1]/following::button[1]</value>
+      <webElementGuid>769e9eee-3c67-4c3a-845f-df3f8b0aaf91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your current spaces'])[1]/following::button[1]</value>
+      <webElementGuid>e8fd8044-27e9-4dd6-b2e1-4ccbb977b86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Space'])[1]/preceding::button[1]</value>
+      <webElementGuid>5cd212f9-15ee-44f3-84a9-5ea56f9c5a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Take a selfie'])[1]/preceding::button[3]</value>
+      <webElementGuid>a06151fa-3b05-49bb-8d6c-c5b016cbf15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Launch']/parent::*</value>
+      <webElementGuid>45fcbb55-17ba-4708-adb7-092545ca1c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>445e5daa-d9aa-4fa6-92ca-b99d23e15a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Launch' or . = 'Launch')]</value>
+      <webElementGuid>9d00e634-d72c-45c4-9bde-8e5c1ba5b6f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
